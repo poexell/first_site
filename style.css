@@ -1,0 +1,29 @@
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-inline: 100px;
+}
+
+.main-nav a {
+    margin: 20px;
+    text-decoration: none;
+}
+
+p {
+    display: inline-block;
+}
+
+.site-name {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 6.6rem
+}
+
+h3 {
+  font-family: 'Arial', 'Verdana', sans-serif;
+}
+p {
+    
+}
