@@ -63,3 +63,13 @@ p {
     color: #ffff;
 }
 
+.partners {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4.5vh;
+    align-items: center;
+    height: 2em;
+    width: auto;
+
+}
+
